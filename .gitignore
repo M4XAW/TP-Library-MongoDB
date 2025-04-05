@@ -23,3 +23,7 @@ node_modules
 # Environment
 .env
 .env.local
+
+# Lock files
+package-lock.json
+pnpm-lock.yaml

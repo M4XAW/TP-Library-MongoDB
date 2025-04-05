@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Le Petit Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1943,
+        "available": true,
+        "genres": ["Fiction", "Fantasy"],
+        "rating": 4.5,
+        "stock": 10
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "available": false,
+        "genres": ["Dystopian", "Political Fiction"],
+        "rating": 4.7,
+        "stock": 0
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "available": true,
+        "genres": ["Fiction", "Drama"],
+        "rating": 4.8,
+        "stock": 5
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "available": true,
+        "genres": ["Fiction", "Classic"],
+        "rating": 4.4,
+        "stock": 2
+    }
+]
